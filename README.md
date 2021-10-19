@@ -43,7 +43,7 @@
 <br>
   <br>
   
-[![Wixed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aditya664&theme=tokyonight)](https://git.io/praveenscience)
+[![Wixed's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WixedDev&theme=tokyonight)](https://git.io/praveenscience)
 
 | ![Wixed's github stats](https://github-readme-stats.vercel.app/api?username=WixedDev&show_icons=true&theme=tokyonight) | ![Wixed GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=WixedDev&theme=tokyonight) |
 | --- | --- |
